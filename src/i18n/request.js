@@ -11,7 +11,7 @@ import { getRequestConfig } from 'next-intl/server';
 export const languages = [
   {
     code: 'en-US',
-    lang: 'en-us',
+    lang: 'en',
     label: 'English',
   },
   {
