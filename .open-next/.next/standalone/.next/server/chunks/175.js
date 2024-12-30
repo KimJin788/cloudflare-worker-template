@@ -1,0 +1,1 @@
+"use strict";exports.id=175,exports.ids=[175],exports.modules={4175:e=>{e.exports=JSON.parse('{"Index":"Home","Navigation":{"newGames":"New Games","hotGames":"Hot Games","language":"Language"},"Game":{"howToPlay":"How to Play","controls":"Controls","objectives":"Objectives"}}')}};

@@ -1,0 +1,13 @@
+{
+  "Index": "Home",
+  "Navigation": {
+    "newGames": "New Games",
+    "hotGames": "Hot Games",
+    "language": "Language"
+  },
+  "Game": {
+    "howToPlay": "How to Play",
+    "controls": "Controls",
+    "objectives": "Objectives"
+  }
+}

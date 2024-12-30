@@ -1,0 +1,1 @@
+"use strict";exports.id=303,exports.ids=[303],exports.modules={8303:e=>{e.exports=JSON.parse('{"Index":"首页","Navigation":{"newGames":"新游戏","hotGames":"热门游戏","language":"语言"},"Game":{"howToPlay":"玩法说明","controls":"操作说明","objectives":"游戏目标"}}')}};
