@@ -72,12 +72,13 @@ export const languages = [
   
 ];
 
-export const defaultLocale = 'en-us';
+export const defaultLocale = 'en';
 
 export const locales = languages.map((lang) => lang.lang);
 
-export default getRequestConfig(async ({ locale }) => {
-  if (!locales.includes(locale)) {
+export default getRequestConfig(async ({ requestLocale }) => {
+  let locale = await requestLocale;
+  if (!locale || !locales.includes(locale)) {
     locale = defaultLocale;
   }
 
