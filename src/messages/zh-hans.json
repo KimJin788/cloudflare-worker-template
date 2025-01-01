@@ -1,13 +1,163 @@
 {
-  "Index": "首页",
+  "Index": {
+    "playNow": "立即游玩",
+    "publisher": "发行商",
+    "rating": "评分",
+    "howToPlay": "玩法说明",
+    "controls": "操作方式",
+    "objectives": "游戏目标"
+  },
   "Navigation": {
     "newGames": "新游戏",
-    "hotGames": "热门游戏",
-    "language": "语言"
+    "hotGames": "热门游戏"
   },
-  "Game": {
-    "howToPlay": "玩法说明",
-    "controls": "操作说明",
-    "objectives": "游戏目标"
+  "Footer": {
+    "copyright": "版权所有 © 2025 三月科技有限公司。保留所有权利。",
+    "contact": {
+      "title": "联系我们",
+      "emailUs": "support@blumgislime.online"
+    },
+    "privacy": {
+      "title": "政策",
+      "privacyPolicy": "隐私政策",
+      "cookiePolicy": "Cookie政策"
+    },
+    "terms": {
+      "title": "条款",
+      "termsOfService": "服务条款"
+    }
+  },
+  "Privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新时间",
+    "backToHome": "返回首页",
+    "whatInfomation": {
+      "title": "我们收集哪些信息？",
+      "content1": "我们可能会收集以下数据：",
+      "content2": "关于您所在城市以及您访问网站的相关信息，包括访问次数等。",
+      "content3": "谷歌分析获取的所有数据都将是安全的。"
+    },
+    "dmca": {
+      "title": "数字千年版权法案（DMCA）版权侵权投诉通知及流程",
+      "content": "如果您希望根据《数字千年版权法案》（DMCA）提交下架通知，请将以下信息书面提交给我们指定的版权代理（详见《美国法典》第17编第512(c)(3)条）：1. 经授权代表版权所有者行事的个人的实体或电子签名；2. 对声称被侵权的受版权保护作品的清晰、具体描述，包括该作品所在的网址（或网络地址），或者受版权保护作品本身的副本；3. 指明在本服务中发现涉嫌侵权材料的网址或具体位置；4. 您的完整联系信息，包括您的地址、电话号码和电子邮件地址；5. 一份声明，确认您善意地认为相关材料的使用未得到版权所有者、其代理人或法律的授权；6. 一份声明，声明通知中提供的信息准确无误，并且您是版权所有者或经授权代表版权所有者行事，否则愿受伪证罪处罚。您可以通过电子邮件support@blumgislime.online与我联系。"
+    },
+    "copyright": {
+      "title": "版权政策",
+      "content": "我们非常重视知识产权保护。我们的政策是，对于在我们服务上发布的内容侵犯任何个人或实体的版权或其他知识产权（“侵权”）的任何投诉，都会及时处理。如果您是版权所有者，或经授权代表版权所有者行事，并且认为您的受版权保护作品被以构成版权侵权的方式使用，请通过电子邮件将您的投诉发送至support@blumgislime.online，邮件主题请注明：“版权侵权”。务必按照下文“数字千年版权法案（DMCA）版权侵权投诉通知及流程”所述，包含对涉嫌侵权行为的详细描述。"
+    },
+    "dataCollection": {
+      "title": "数据收集",
+      "content1": "我们收集为您提供最佳游戏体验所需的最少数据。这包括基本的使用统计数据和游戏偏好设置。除非您明确提供，否则我们不会收集任何个人信息。",
+      "content2": "部分游戏会收集游戏内的信息，这些信息可能会发送给开发者。本网站对他们那一端的隐私收集行为不承担任何责任。"
+    },
+    "dataSecurity": {
+      "title": "数据安全",
+      "content": "我们重视您的数据安全。所有数据都经过加密并安全存储。我们会定期更新安全措施，以确保您的信息始终受到保护。"
+    },
+    "cookies": {
+      "title": "Cookies与本地存储",
+      "content": "我们使用Cookies和本地存储来保存您的游戏进度和偏好设置。这些对于游戏正常运行以及提供无缝的游戏体验至关重要。"
+    },
+    "thirdParty": {
+      "title": "第三方服务",
+      "content": "我们的游戏可能包含用于分析和性能监测的第三方服务。这些服务受其自身的隐私政策和数据处理协议约束。"
+    },
+    "contact": {
+      "title": "联系我们",
+      "content": "如果您对我们的隐私政策或我们如何处理您的数据有任何疑问，请通过以下方式联系我们："
+    }
+  },
+  "Cookies": {
+    "title": "Cookie政策",
+    "lastUpdated": "最后更新时间",
+    "backToHome": "返回首页",
+    "whatAreCookies": {
+      "title": "什么是Cookies？",
+      "content": "Cookies是您访问我们网站时放置在您设备上的小型文本文件。它们通过记住您的偏好设置、分析您如何使用我们的游戏以及协助保障安全等方式，帮助我们为您提供更好的体验。"
+    },
+    "howWeUse": {
+      "title": "我们如何使用Cookies",
+      "essential": "游戏正常运行所需的必要Cookies",
+      "preferences": "记住您的设置和选择的偏好Cookies",
+      "analytics": "帮助我们了解您如何使用游戏的分析Cookies"
+    },
+    "cookieTypes": {
+      "title": "我们使用的Cookies类型",
+      "essential": {
+        "title": "必要Cookies",
+        "description": "这些Cookies是游戏正常运行所必需的。它们支持如游戏进度保存和安全功能等核心功能。没有这些Cookies，游戏无法正常运行。"
+      },
+      "preferences": {
+        "title": "偏好Cookies",
+        "description": "这些Cookies会记住您的设置和选择，比如语言偏好和游戏设置。它们通过记住您的偏好设置来提升您的游戏体验。"
+      },
+      "analytics": {
+        "title": "分析Cookies",
+        "description": "这些Cookies通过匿名收集和报告信息，帮助我们了解访问者与我们游戏的交互情况。这有助于我们为所有人改善游戏体验。"
+      }
+    },
+    "control": {
+      "title": "控制Cookies",
+      "content": "大多数网络浏览器会自动接受Cookies，但如果您愿意，您可以修改浏览器设置来拒绝Cookies。不过，这样做可能会使您无法充分享受我们游戏的全部功能。",
+      "browserSettings": "您可以在此处管理您浏览器中的Cookie设置："
+    },
+    "contact": {
+      "title": "关于Cookies的疑问？",
+      "content": "如果您对我们如何使用Cookies有任何疑问，请通过以下方式联系我们："
+    }
+  },
+  "Terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新时间",
+    "backToHome": "返回首页",
+    "acceptance": {
+      "title": "条款接受",
+      "content": "通过访问并游玩《Blumgi Slime》，您确认已阅读、理解并同意受这些服务条款的约束。如果您不同意这些条款，请不要使用我们的游戏。"
+    },
+    "gameAccess": {
+      "title": "游戏访问与使用",
+      "content": "我们授予您一项个人的、非排他性的、不可转让的、有限的权利，仅供您出于个人娱乐目的访问和使用《Blumgi Slime》。",
+      "requirements": {
+        "age": "您必须年满13岁才能游玩《Blumgi Slime》",
+        "account": "您有责任维护您账户的保密性",
+        "rules": "您同意遵守游戏提供的所有规则和指南"
+      }
+    },
+    "userConduct": {
+      "title": "用户行为规范",
+      "intro": "在游玩《Blumgi Slime》时，您同意不从事以下任何被禁止的活动：",
+      "prohibited": {
+        "cheating": "使用作弊程序、自动化软件、外挂、模组或任何未经授权的第三方软件",
+        "harassment": "骚扰、欺凌或恐吓其他玩家",
+        "illegal": "从事任何非法活动或宣传非法内容",
+        "security": "试图突破安全措施或访问未经授权的区域",
+        "commercial": "未经授权将游戏用于商业目的"
+      }
+    },
+    "intellectualProperty": {
+      "title": "知识产权",
+      "content": "《Blumgi Slime》的方方面面都受版权、商标及其他知识产权法律保护。",
+      "protected": {
+        "title": "受保护的元素包括：",
+        "graphics": "游戏图形、角色和美术作品",
+        "code": "源代码和游戏机制",
+        "content": "文本、声音、音乐和视觉内容",
+        "trademarks": "标识、名称和品牌元素"
+      }
+    },
+    "termination": {
+      "title": "账户终止",
+      "content": "我们保留自行决定暂停或终止您访问《Blumgi Slime》的权利，无需事先通知，若我们认为您的行为违反了这些服务条款、对其他用户、我们或第三方造成损害，或出于任何其他原因。",
+      "warning": "任何违反这些条款的行为都可能导致账户立即被终止"
+    },
+    "disclaimer": {
+      "title": "免责声明",
+      "caps": "本游戏按‘原样’和‘可提供’的状态提供",
+      "content": "对于游戏的可靠性、可用性或是否适合您预期的用途，我们不做任何明示或默示的保证。我们不保证游戏将无差错或不间断运行。"
+    },
+    "contact": {
+      "title": "联系我们",
+      "content": "如果您对这些服务条款有任何疑问，请通过以下方式联系我们："
+    }
   }
 }

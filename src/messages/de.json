@@ -1,1 +1,163 @@
-{}
+{
+  "Index": {
+    "playNow": "Spielen Sie jetzt",
+    "publisher": "Verleger",
+    "rating": "Bewertung",
+    "howToPlay": "So wird gespielt",
+    "controls": "Bedienung",
+    "objectives": "Ziele"
+  },
+  "Navigation": {
+    "newGames": "Neue Spiele",
+    "hotGames": "Beliebte Spiele"
+  },
+  "Footer": {
+    "copyright": "Copyright © 2025 March Technology Co., Ltd. Alle Rechte sind vorbehalten.",
+    "contact": {
+      "title": "Kontakt",
+      "emailUs": "support@blumgislime.online"
+    },
+    "privacy": {
+      "title": "Politik",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "cookiePolicy": "Cookie-Richtlinie"
+    },
+    "terms": {
+      "title": "Bedingungen",
+      "termsOfService": "Nutzungsbedingungen"
+    }
+  },
+  "Privacy": {
+    "title": "Datenschutzrichtlinie",
+    "lastUpdated": "Letzte Aktualisierung",
+    "backToHome": "Zurück zur Startseite",
+    "whatInfomation": {
+      "title": "Welche Informationen sammeln wir?",
+      "content1": "Wir können folgende Daten sammeln:",
+      "content2": "Informationen über Ihre Stadt und Ihren Besuch auf der Website, einschließlich der Anzahl der Besuche usw.",
+      "content3": "Alle von Google Analytics gewonnenen Daten sind sicher."
+    },
+    "dmca": {
+      "title": "DMCA-Benachrichtigung und Verfahren bei Ansprüchen auf Urheberrechtsverletzung",
+      "content": "Wenn Sie eine Löschungsanfrage gemäß dem Digital Millennium Copyright Act (DMCA) stellen möchten, senden Sie bitte die folgenden Informationen schriftlich an unseren benannten Copyright-Agent (weitere Details finden Sie in 17 U.S.C. § 512(c)(3)): 1. Eine physische oder elektronische Unterschrift der Person, die berechtigt ist, im Namen des Urheberrechtsinhabers tätig zu werden; 2. Eine klare und spezifische Beschreibung des urheberrechtlich geschützten Werks, über das beansprucht wird, dass es verletzt wurde, einschließlich der URL (oder Webadresse), unter der das Werk zu finden ist, oder eine Kopie des urheberrechtlich geschützten Werks selbst; 3. Die Identifizierung der URL oder des spezifischen Ortes auf dem Dienst, an dem das angeblich rechtsverletzende Material zu finden ist; 4. Ihre vollständigen Kontaktinformationen, einschließlich Ihrer Adresse, Telefonnummer und E-Mail-Adresse; 5. Eine Erklärung, in der Sie Ihre gute Glaubensüberzeugung bestätigen, dass die Verwendung des fraglichen Materials nicht vom Urheberrechtsinhaber, seinem Vertreter oder dem Gesetz autorisiert wird; 6. Eine Erklärung unter Eid auf Strafe der Meineidandrohung, dass die in der Benachrichtigung bereitgestellten Informationen korrekt sind und dass Sie der Urheberrechtsinhaber sind oder berechtigt sind, im Namen des Urheberrechtsinhabers tätig zu werden. Sie können mich per E-Mail unter support@blumgislime.online kontaktieren."
+    },
+    "copyright": {
+      "title": "Copyright-Politik",
+      "content": "Wir nehmen den Schutz der geistigen Eigentumsrechte sehr ernst. Es ist unsere Politik, jeden Anspruch, der besagt, dass Inhalte auf unserem Dienst die Urheberrechte oder andere geistige Eigentumsrechte („Verletzung“) eines Einzelnen oder einer Einrichtung verletzen, umgehend zu bearbeiten. Wenn Sie der Urheberrechtsinhaber sind oder berechtigt sind, im Namen eines Urheberrechtsinhabers tätig zu werden und der Meinung sind, dass Ihr urheberrechtlich geschütztes Werk auf eine Weise verwendet wurde, die eine Urheberrechtsverletzung darstellt, senden Sie bitte Ihren Anspruch per E-Mail an support@blumgislime.online mit der Betreffzeile: „Urheberrechtsverletzung“. Stellen Sie sicher, dass Sie eine detaillierte Beschreibung der angeblichen Verletzung wie unten unter „DMCA-Benachrichtigung und Verfahren bei Ansprüchen auf Urheberrechtsverletzung“ beschrieben enthalten."
+    },
+    "dataCollection": {
+      "title": "Datengewinnung",
+      "content1": "Wir sammeln die minimalen Daten, die notwendig sind, um Ihnen das beste Gaming-Erlebnis zu bieten. Dies umfasst grundlegende Nutzungsstatistiken und Spiele-Einstellungen. Wir sammeln keine persönlichen Informationen, es sei denn, Sie liefern sie uns ausdrücklich.",
+      "content2": "Einige Spiele sammeln Informationen innerhalb des Spiels, die möglicherweise an die Entwickler gesendet werden. Diese Website übernimmt keine Verantwortung für die Datenerhebung auf ihrer Seite."
+    },
+    "dataSecurity": {
+      "title": "Daten Sicherheit",
+      "content": "Wir nehmen die Sicherheit Ihrer Daten sehr ernst. Alle Daten werden verschlüsselt und sicher gespeichert. Wir aktualisieren regelmäßig unsere Sicherheitsmaßnahmen, um sicherzustellen, dass Ihre Informationen geschützt bleiben."
+    },
+    "cookies": {
+      "title": "Cookies & Lokaler Speicher",
+      "content": "Wir verwenden Cookies und lokalen Speicher, um Ihren Spielstand und Ihre Einstellungen zu speichern. Dies ist für die ordnungsgemäße Funktion des Spiels und für ein reibungsloses Gaming-Erlebnis von entscheidender Bedeutung."
+    },
+    "thirdParty": {
+      "title": "Dienste Dritter",
+      "content": "Unser Spiel kann Dienste von Drittanbietern für Analysen und Leistungsüberwachung enthalten. Diese Dienste unterliegen ihren eigenen Datenschutzrichtlinien und Vereinbarungen zur Datenverarbeitung."
+    },
+    "contact": {
+      "title": "Kontaktieren Sie uns",
+      "content": "Wenn Sie Fragen zu unserer Datenschutzrichtlinie oder zu unserer Vorgehensweise bei der Verarbeitung Ihrer Daten haben, kontaktieren Sie uns bitte unter:"
+    }
+  },
+  "Cookies": {
+    "title": "Cookie-Richtlinie",
+    "lastUpdated": "Letzte Aktualisierung",
+    "backToHome": "Zurück zur Startseite",
+    "whatAreCookies": {
+      "title": "Was sind Cookies?",
+      "content": "Cookies sind kleine Textdateien, die auf Ihrem Gerät gespeichert werden, wenn Sie unsere Website besuchen. Sie helfen uns, Ihnen ein besseres Erlebnis zu bieten, indem sie Ihre Einstellungen speichern, analysieren, wie Sie unser Spiel nutzen, und bei der Sicherheit helfen."
+    },
+    "howWeUse": {
+      "title": "Wie verwenden wir Cookies?",
+      "essential": "Essenzielle Cookies, die für die ordnungsgemäße Funktion des Spiels erforderlich sind",
+      "preferences": "Präferenz-Cookies, die Ihre Einstellungen und Entscheidungen speichern",
+      "analytics": "Analyse-Cookies, die uns helfen zu verstehen, wie Sie unser Spiel nutzen"
+    },
+    "cookieTypes": {
+      "title": "Arten von Cookies, die wir verwenden",
+      "essential": {
+        "title": "Essenzielle Cookies",
+        "description": "Diese Cookies sind für die ordnungsgemäße Funktion des Spiels notwendig. Sie ermöglichen zentrale Funktionen wie das Speichern des Spielstands und Sicherheitsfunktionen. Ohne diese Cookies kann das Spiel nicht ordnungsgemäß funktionieren."
+      },
+      "preferences": {
+        "title": "Präferenz-Cookies",
+        "description": "Diese Cookies speichern Ihre Einstellungen und Entscheidungen, wie z.B. Sprachpräferenzen und Spiel-Einstellungen. Sie verbessern Ihr Erlebnis, indem sie Ihre Einstellungen speichern."
+      },
+      "analytics": {
+        "title": "Analyse-Cookies",
+        "description": "Diese Cookies helfen uns zu verstehen, wie Besucher mit unserem Spiel interagieren, indem sie Informationen anonym sammeln und melden. Dies hilft uns, das Spiel-Erlebnis für alle zu verbessern."
+      }
+    },
+    "control": {
+      "title": "Cookies steuern",
+      "content": "Die meisten Webbrowser akzeptieren Cookies automatisch, aber Sie können Ihre Browser-Einstellungen ändern, um Cookies abzulehnen, wenn Sie möchten. Beachten Sie jedoch, dass dies dazu führen kann, dass Sie das volle Potential unseres Spiels nicht ausschöpfen können.",
+      "browserSettings": "Sie können die Cookie-Einstellungen in Ihrem Browser hier verwalten:"
+    },
+    "contact": {
+      "title": "Fragen zu Cookies?",
+      "content": "Wenn Sie Fragen zu unserem Umgang mit Cookies haben, kontaktieren Sie uns bitte unter:"
+    }
+  },
+  "Terms": {
+    "title": "Nutzungsbedingungen",
+    "lastUpdated": "Letzte Aktualisierung",
+    "backToHome": "Zurück zur Startseite",
+    "acceptance": {
+      "title": "Akzeptanz der Bedingungen",
+      "content": "Durch den Zugriff auf und das Spielen von Blumgi Slime bestätigen Sie, dass Sie diese Nutzungsbedingungen gelesen, verstanden und sich daran gebunden fühlen. Wenn Sie diesen Bedingungen nicht zustimmen, verwenden Sie bitte unser Spiel nicht."
+    },
+    "gameAccess": {
+      "title": "Spielzugang und -nutzung",
+      "content": "Wir gewähren Ihnen ein persönliches, nicht-exklusives, nicht-übertragbares, begrenztes Recht auf den Zugriff und die Nutzung von Blumgi Slime ausschließlich zu Ihren persönlichen Unterhaltungszwecken.",
+      "requirements": {
+        "age": "Sie müssen mindestens 13 Jahre alt sein, um Blumgi Slime zu spielen",
+        "account": "Sie sind verantwortlich für die Wahrung der Vertraulichkeit Ihres Kontos",
+        "rules": "Sie stimmen zu, alle für das Spiel vorgesehenen Regeln und Richtlinien zu befolgen"
+      }
+    },
+    "userConduct": {
+      "title": "Verhalten der Benutzer",
+      "intro": "Während Sie Blumgi Slime spielen, stimmen Sie zu, nicht an den folgenden verbotenen Aktivitäten teilzunehmen:",
+      "prohibited": {
+        "cheating": "Das Verwenden von Cheats, Automatisierungssoftware, Hacks, Mods oder jeder anderen nicht autorisierten Drittanbieter-Software",
+        "harassment": "Das Belästigen, Mobbing oder Einschüchtern anderer Spieler",
+        "illegal": "Das Beteiligen an illegalen Aktivitäten oder die Förderung illegaler Inhalte",
+        "security": "Das Versuchen, Sicherheitsmaßnahmen zu umgehen oder auf nicht autorisierte Bereiche zuzugreifen",
+        "commercial": "Das Verwenden des Spiels zu kommerziellen Zwecken ohne Genehmigung"
+      }
+    },
+    "intellectualProperty": {
+      "title": "Rechte am geistigen Eigentum",
+      "content": "Alle Aspekte von Blumgi Slime sind durch Urheberrechte, Markenrechte und andere Gesetze zum Schutz des geistigen Eigentums geschützt.",
+      "protected": {
+        "title": "Geschützte Elemente umfassen:",
+        "graphics": "Spielgrafiken, Charaktere und Kunstwerke",
+        "code": "Quellcode und Spielmechaniken",
+        "content": "Text, Sound, Musik und visuelle Inhalte",
+        "trademarks": "Logos, Namen und Markenelemente"
+      }
+    },
+    "termination": {
+      "title": "Kontobeendigung",
+      "content": "Wir behalten uns das Recht vor, Ihren Zugang zu Blumgi Slime jederzeit und ohne Vorankündigung auszusetzen oder zu beenden, wenn wir der Meinung sind, dass Ihr Verhalten gegen diese Nutzungsbedingungen verstößt oder anderen Nutzern, uns oder Dritten schadet oder aus anderen Gründen.",
+      "warning": "Jede Verstöße gegen diese Bedingungen kann zu einer sofortigen Beendigung des Kontos führen."
+    },
+    "disclaimer": {
+      "title": "Haftungsausschluss",
+      "caps": "Das Spiel wird „so wie es ist“ und „sofern verfügbar“ angeboten.",
+      "content": "Wir übernehmen keine Gewährleistung, weder ausdrücklich noch stillschweigend, in Bezug auf die Zuverlässigkeit, Verfügbarkeit oder Eignung des Spiels für Ihren beabsichtigten Zweck. Wir garantieren nicht, dass das Spiel fehlerfrei oder störungsfrei sein wird."
+    },
+    "contact": {
+      "title": "Kontaktieren Sie uns",
+      "content": "Wenn Sie Fragen zu diesen Nutzungsbedingungen haben, kontaktieren Sie uns bitte unter:"
+    }
+  }
+}

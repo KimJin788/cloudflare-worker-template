@@ -1,13 +1,163 @@
 {
-  "Index": "Home",
-  "Navigation": {
-    "newGames": "New Games",
-    "hotGames": "Hot Games",
-    "language": "Language"
-  },
-  "Game": {
+  "Index": {
+    "playNow": "Play Now",
+    "publisher": "Publisher",
+    "rating": "Rating",
     "howToPlay": "How to Play",
     "controls": "Controls",
     "objectives": "Objectives"
+  },
+  "Navigation": {
+    "newGames": "New Games",
+    "hotGames": "Hot Games"
+  },
+  "Footer": {
+    "copyright": "Copyright © 2025 March Technology Co., Ltd. All rights reserved.",
+    "contact": {
+      "title": "Contact",
+      "emailUs": "support@blumgislime.online"
+    },
+    "privacy": {
+      "title": "Policy",
+      "privacyPolicy": "Privacy Policy",
+      "cookiePolicy": "Cookie Policy"
+    },
+    "terms": {
+      "title": "Terms",
+      "termsOfService": "Terms of Service"
+    }
+  },
+  "Privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated",
+    "backToHome": "Back to Home",
+    "whatInfomation": {
+      "title": "What information do we collect?",
+      "content1": "We may collect the following data:",
+      "content2": "Information about your city and about your arrival to the website including number of arrivals, etc.",
+      "content3": "All of the data that google analytics obtains will be safe."
+    },
+    "dmca": {
+      "title": "DMCA Notice and Procedure for Copyright Infringement Claims",
+      "content": "If you wish to file a takedown notification under the Digital Millennium Copyright Act (DMCA), please submit the following information in writing to our designated Copyright Agent (see 17 U.S.C. § 512(c)(3) for further details): 1. A physical or electronic signature of the individual authorized to act on behalf of the copyright owner; 2. A clear and specific description of the copyrighted work claimed to be infringed, including the URL (or web address) where the work is located, or a copy of the copyrighted work itself; 3. Identification of the URL or specific location on the Service where the allegedly infringing material is found; 4. Your full contact information, including your address, phone number, and email address; 5. A statement affirming your good faith belief that the use of the material in question is not authorized by the copyright owner, their agent, or the law; 6. A statement, under penalty of perjury, that the information provided in the notification is accurate and that you are the copyright owner or authorized to act on behalf of the copyright owner.You can contact me via email at support@blumgislime.online."
+    },
+    "copyright": {
+      "title": "Copyright policy",
+      "content": "We take the protection of intellectual property rights very seriously. It is our policy to promptly address any claim that Content posted on our Service violates the copyright or other intellectual property rights (“Infringement”) of any individual or entity. If you are the copyright owner, or are authorized to act on behalf of one, and believe that your copyrighted work has been used in a manner that constitutes copyright infringement, please submit your claim via email to support@blumgislime.online, with the subject line: “Copyright Infringement.” Be sure to include a detailed description of the alleged infringement, as outlined below under “DMCA Notice and Procedure for Copyright Infringement Claims.”"
+    },
+    "dataCollection": {
+      "title": "Data Collection",
+      "content1": "We collect minimal data necessary to provide you with the best gaming experience. This includes basic usage statistics and game preferences. We do not collect any personal information unless explicitly provided by you.",
+      "content2": "Some games collect information inside the game that possibly will be sent to the developers. This website will not be held responsible for any of the privacy collection from their end."
+    },
+    "dataSecurity": {
+      "title": "Data Security",
+      "content": "We take the security of your data seriously. All data is encrypted and stored securely. We regularly update our security measures to ensure your information remains protected."
+    },
+    "cookies": {
+      "title": "Cookies & Local Storage",
+      "content": "We use cookies and local storage to save your game progress and preferences. These are essential for the game to function properly and provide a seamless gaming experience."
+    },
+    "thirdParty": {
+      "title": "Third-Party Services",
+      "content": "Our game may include third-party services for analytics and performance monitoring. These services are bound by their own privacy policies and data processing agreements."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "If you have any questions about our privacy policy or how we handle your data, please contact us at:"
+    }
+  },
+  "Cookies": {
+    "title": "Cookie Policy",
+    "lastUpdated": "Last Updated",
+    "backToHome": "Back to Home",
+    "whatAreCookies": {
+      "title": "What are Cookies?",
+      "content": "Cookies are small text files that are placed on your device when you visit our website. They help us provide you with a better experience by remembering your preferences, analyzing how you use our game, and helping with security."
+    },
+    "howWeUse": {
+      "title": "How We Use Cookies",
+      "essential": "Essential cookies that are required for the game to function properly",
+      "preferences": "Preference cookies that remember your settings and choices",
+      "analytics": "Analytics cookies that help us understand how you use our game"
+    },
+    "cookieTypes": {
+      "title": "Types of Cookies We Use",
+      "essential": {
+        "title": "Essential Cookies",
+        "description": "These cookies are necessary for the game to function properly. They enable core functionality such as game progress saving and security features. The game cannot function properly without these cookies."
+      },
+      "preferences": {
+        "title": "Preference Cookies",
+        "description": "These cookies remember your settings and choices, such as language preferences and game settings. They help make your experience better by remembering your preferences."
+      },
+      "analytics": {
+        "title": "Analytics Cookies",
+        "description": "These cookies help us understand how visitors interact with our game by collecting and reporting information anonymously. This helps us improve the game experience for everyone."
+      }
+    },
+    "control": {
+      "title": "Controlling Cookies",
+      "content": "Most web browsers automatically accept cookies, but you can modify your browser settings to decline cookies if you prefer. However, this may prevent you from taking full advantage of our game.",
+      "browserSettings": "You can manage cookie settings in your browser here:"
+    },
+    "contact": {
+      "title": "Questions About Cookies?",
+      "content": "If you have any questions about how we use cookies, please contact us at:"
+    }
+  },
+  "Terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated",
+    "backToHome": "Back to Home",
+    "acceptance": {
+      "title": "Acceptance of Terms",
+      "content": "By accessing and playing Blumgi Slime, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use our game."
+    },
+    "gameAccess": {
+      "title": "Game Access and Usage",
+      "content": "We grant you a personal, non-exclusive, non-transferable, limited right to access and use Blumgi Slime for your personal entertainment purposes only.",
+      "requirements": {
+        "age": "You must be at least 13 years old to play Blumgi Slime",
+        "account": "You are responsible for maintaining the confidentiality of your account",
+        "rules": "You agree to follow all rules and guidelines provided for the game"
+      }
+    },
+    "userConduct": {
+      "title": "User Conduct",
+      "intro": "While playing Blumgi Slime, you agree not to engage in any of the following prohibited activities:",
+      "prohibited": {
+        "cheating": "Using cheats, automation software, hacks, mods, or any unauthorized third-party software",
+        "harassment": "Harassing, bullying, or intimidating other players",
+        "illegal": "Engaging in any illegal activities or promoting illegal content",
+        "security": "Attempting to breach security measures or access unauthorized areas",
+        "commercial": "Using the game for commercial purposes without authorization"
+      }
+    },
+    "intellectualProperty": {
+      "title": "Intellectual Property Rights",
+      "content": "All aspects of Blumgi Slime are protected by copyright, trademark, and other intellectual property laws.",
+      "protected": {
+        "title": "Protected Elements Include:",
+        "graphics": "Game graphics, characters, and artwork",
+        "code": "Source code and game mechanics",
+        "content": "Text, sound, music, and visual content",
+        "trademarks": "Logos, names, and branding elements"
+      }
+    },
+    "termination": {
+      "title": "Account Termination",
+      "content": "We reserve the right to suspend or terminate your access to Blumgi Slime at our sole discretion, without notice, for conduct that we believe violates these Terms of Service or is harmful to other users, us, or third parties, or for any other reason.",
+      "warning": "Any violation of these terms may result in immediate account termination"
+    },
+    "disclaimer": {
+      "title": "Disclaimer of Warranties",
+      "caps": "THE GAME IS PROVIDED 'AS IS' AND 'AS AVAILABLE'",
+      "content": "We make no warranties, expressed or implied, regarding the game's reliability, availability, or suitability for your intended purpose. We do not guarantee that the game will be error-free or uninterrupted."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "If you have any questions about these Terms of Service, please contact us at:"
+    }
   }
 }

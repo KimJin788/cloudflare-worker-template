@@ -1,1 +1,163 @@
-{}
+{
+  "Index": {
+    "playNow": "Juega Ahora",
+    "publisher": "Editor",
+    "rating": "Calificación",
+    "howToPlay": "Cómo Jugar",
+    "controls": "Controles",
+    "objectives": "Objetivos"
+  },
+  "Navigation": {
+    "newGames": "Nuevos Juegos",
+    "hotGames": "Juegos Populares"
+  },
+  "Footer": {
+    "copyright": "Copyright © 2025 March Technology Co., Ltd. Todos los derechos reservados.",
+    "contact": {
+      "title": "Contacto",
+      "emailUs": "Envíenos un Correo Electrónico"
+    },
+    "privacy": {
+      "title": "Políticas",
+      "privacyPolicy": "Política de Privacidad",
+      "cookiePolicy": "Política de Cookies"
+    },
+    "terms": {
+      "title": "Términos",
+      "termsOfService": "Términos de Servicio"
+    }
+  },
+  "Privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última Actualización",
+    "backToHome": "Volver al Inicio",
+    "whatInfomation": {
+      "title": "¿Qué información recopilamos?",
+      "content1": "Podemos recopilar los siguientes datos:",
+      "content2": "Información sobre tu ciudad y sobre tu llegada al sitio web, incluyendo el número de visitas, etc.",
+      "content3": "Todos los datos que obtiene Google Analytics estarán seguros."
+    },
+    "dmca": {
+      "title": "Aviso de DMCA y Procedimiento para Reclamaciones de Infracción de Derechos de Autor",
+      "content": "Si deseas presentar una notificación de retirada de contenido en virtud de la Ley de Derechos de Autor del Milenio Digital (DMCA), por favor, envía la siguiente información por escrito a nuestro Agente de Derechos de Autor designado (consulta el 17 U.S.C. § 512(c)(3) para más detalles): 1. Una firma física o electrónica de la persona autorizada para actuar en nombre del propietario del derecho de autor; 2. Una descripción clara y específica de la obra protegida por derechos de autor que se afirma ha sido infringida, incluyendo la URL (o dirección web) donde se encuentra la obra, o una copia de la obra protegida por derechos de autor misma; 3. La identificación de la URL o ubicación específica en el servicio donde se encuentra el material supuestamente infringente; 4. Tu información de contacto completa, incluyendo tu dirección, número de teléfono y dirección de correo electrónico; 5. Una declaración afirmando tu buena fe en la creencia de que el uso del material en cuestión no está autorizado por el propietario del derecho de autor, su agente o la ley; 6. Una declaración, bajo pena de perjurio, de que la información proporcionada en la notificación es correcta y de que eres el propietario del derecho de autor o estás autorizado para actuar en su nombre. Puedes contactarme por correo electrónico en support@blumgislime.online."
+    },
+    "copyright": {
+      "title": "Política de Derechos de Autor",
+      "content": "Tomamos muy en serio la protección de los derechos de propiedad intelectual. Es nuestra política abordar de inmediato cualquier reclamación de que el contenido publicado en nuestro servicio viola los derechos de autor u otros derechos de propiedad intelectual ('Infracción') de cualquier persona o entidad. Si eres el propietario del derecho de autor, o estás autorizado para actuar en su nombre, y crees que tu obra protegida por derechos de autor ha sido utilizada de una manera que constituye una infracción de derechos de autor, por favor, envía tu reclamación por correo electrónico a support@blumgislime.online, con el asunto: 'Infracción de Derechos de Autor'. Asegúrate de incluir una descripción detallada de la supuesta infracción, como se describe a continuación en 'Aviso de DMCA y Procedimiento para Reclamaciones de Infracción de Derechos de Autor'."
+    },
+    "dataCollection": {
+      "title": "Recopilación de Datos",
+      "content1": "Recopilamos los datos mínimos necesarios para ofrecerte la mejor experiencia de juego. Esto incluye estadísticas básicas de uso y preferencias de juego. No recopilamos ninguna información personal a menos que la proporciones explícitamente.",
+      "content2": "Algunos juegos recopilan información dentro del juego que posiblemente se enviará a los desarrolladores. Este sitio web no se hará responsable de ninguna de las recopilaciones de privacidad de su parte."
+    },
+    "dataSecurity": {
+      "title": "Seguridad de Datos",
+      "content": "Tomamos muy en serio la seguridad de tus datos. Todos los datos están encriptados y almacenados de manera segura. Actualizamos regularmente nuestras medidas de seguridad para garantizar que tus informaciones permanezcan protegidas."
+    },
+    "cookies": {
+      "title": "Cookies y Almacenamiento Local",
+      "content": "Utilizamos cookies y almacenamiento local para guardar tu progreso en el juego y tus preferencias. Estos son esenciales para que el juego funcione correctamente y ofrezca una experiencia de juego sin interrupciones."
+    },
+    "thirdParty": {
+      "title": "Servicios de Terceros",
+      "content": "Nuestro juego puede incluir servicios de terceros para análisis y monitoreo de rendimiento. Estos servicios están sujetos a sus propias políticas de privacidad y acuerdos de procesamiento de datos."
+    },
+    "contact": {
+      "title": "Contáctenos",
+      "content": "Si tienes alguna pregunta sobre nuestra Política de Privacidad o sobre cómo manejamos tus datos, por favor, contáctenos en:"
+    }
+  },
+  "Cookies": {
+    "title": "Política de Cookies",
+    "lastUpdated": "Última Actualización",
+    "backToHome": "Volver al Inicio",
+    "whatAreCookies": {
+      "title": "¿Qué son las Cookies?",
+      "content": "Las cookies son pequeños archivos de texto que se colocan en tu dispositivo cuando visitas nuestro sitio web. Nos ayudan a ofrecerte una mejor experiencia recordando tus preferencias, analizando cómo utilizas nuestro juego y ayudando con la seguridad."
+    },
+    "howWeUse": {
+      "title": "Cómo Utilizamos las Cookies",
+      "essential": "Cookies esenciales que son necesarias para que el juego funcione correctamente",
+      "preferences": "Cookies de preferencias que recuerdan tus configuraciones y opciones",
+      "analytics": "Cookies de análisis que nos ayudan a entender cómo utilizas nuestro juego"
+    },
+    "cookieTypes": {
+      "title": "Tipos de Cookies que Utilizamos",
+      "essential": {
+        "title": "Cookies Esenciales",
+        "description": "Estas cookies son necesarias para que el juego funcione correctamente. Permiten funciones básicas como guardar el progreso del juego y funciones de seguridad. El juego no puede funcionar correctamente sin estas cookies."
+      },
+    "preferences": {
+        "title": "Cookies de Preferencias",
+        "description": "Estas cookies recuerdan tus configuraciones y opciones, como las preferencias de idioma y las configuraciones del juego. Ayudan a mejorar tu experiencia recordando tus preferencias."
+      },
+    "analytics": {
+        "title": "Cookies de Análisis",
+        "description": "Estas cookies nos ayudan a entender cómo los visitantes interactúan con nuestro juego al recopilar y reportar información de forma anónima. Esto nos ayuda a mejorar la experiencia de juego para todos."
+      }
+    },
+    "control": {
+      "title": "Control de Cookies",
+      "content": "La mayoría de los navegadores web aceptan cookies automáticamente, pero puedes modificar las configuraciones de tu navegador para rechazar cookies si lo prefieres. Sin embargo, esto podría impedir que aproveches al máximo nuestro juego.",
+      "browserSettings": "Puedes gestionar las configuraciones de cookies en tu navegador aquí:"
+    },
+    "contact": {
+      "title": "¿Tienes Preguntas sobre las Cookies?",
+      "content": "Si tienes alguna pregunta sobre cómo utilizamos las cookies, por favor, contáctenos en:"
+    }
+  },
+  "Terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última Actualización",
+    "backToHome": "Volver al Inicio",
+    "acceptance": {
+      "title": "Aceptación de los Términos",
+      "content": "Al acceder y jugar a Blumgi Slime, reconoces que has leído, entendido y estás de acuerdo en estar sujeto a estos Términos de Servicio. Si no estás de acuerdo con estos términos, por favor, no utilices nuestro juego."
+    },
+    "gameAccess": {
+      "title": "Acceso y Uso del Juego",
+      "content": "Te otorgamos un derecho personal, no exclusivo, no transferible y limitado para acceder y utilizar Blumgi Slime solo con fines de entretenimiento personal.",
+      "requirements": {
+        "age": "Debes tener al menos 13 años para jugar a Blumgi Slime",
+        "account": "Eres responsable de mantener la confidencialidad de tu cuenta",
+        "rules": "Estás de acuerdo en seguir todas las reglas y directrices proporcionadas para el juego"
+      }
+    },
+    "userConduct": {
+      "title": "Conducta del Usuario",
+      "intro": "Mientras juegas a Blumgi Slime, estás de acuerdo en no participar en ninguna de las siguientes actividades prohibidas:",
+      "prohibited": {
+        "cheating": "Usar trucos, software de automatización, hacks, mods o cualquier software de terceros no autorizado",
+        "harassment": "Acosar, intimidar o bullying a otros jugadores",
+        "illegal": "Participar en cualquier actividad ilegal o promocionar contenido ilegal",
+        "security": "Intentar violar las medidas de seguridad o acceder a áreas no autorizadas",
+        "commercial": "Usar el juego con fines comerciales sin autorización"
+      }
+    },
+    "intellectualProperty": {
+      "title": "Derechos de Propiedad Intelectual",
+      "content": "Todos los aspectos de Blumgi Slime están protegidos por derechos de autor, marcas registradas y otras leyes de propiedad intelectual.",
+      "protected": {
+        "title": "Elementos Protegidos Incluyen:",
+        "graphics": "Gráficos del juego, personajes y obras de arte",
+        "code": "Código fuente y mecánicas del juego",
+        "content": "Texto, sonido, música y contenido visual",
+        "trademarks": "Logos, nombres y elementos de marca"
+      }
+    },
+    "termination": {
+      "title": "Terminación de la Cuenta",
+      "content": "Nos reservamos el derecho de suspender o terminar tu acceso a Blumgi Slime a nuestra única discreción, sin previo aviso, por conductas que consideremos que violan estos Términos de Servicio o que son perjudiciales para otros usuarios, nosotros o terceros, o por cualquier otro motivo.",
+      "warning": "Cualquier violación de estos términos puede resultar en la terminación inmediata de la cuenta."
+    },
+    "disclaimer": {
+      "title": "Exención de Garantías",
+      "caps": "EL JUEGO SE PROPORCIONA 'TAL CUAL' Y 'SEGÚN DISPONIBILIDAD'",
+      "content": "No damos ninguna garantía, expresa o implícita, sobre la fiabilidad, disponibilidad o idoneidad del juego para el fin previsto. No garantizamos que el juego sea libre de errores o sin interrupciones."
+    },
+    "contact": {
+      "title": "Contáctenos",
+      "content": "Si tienes alguna pregunta sobre estos Términos de Servicio, por favor, contáctenos en:"
+    }
+  }
+}

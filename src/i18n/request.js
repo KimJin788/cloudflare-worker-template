@@ -66,7 +66,7 @@ export const languages = [
   },
   {
     code: 'ja-JP',
-    lang: 'ja-jp',
+    lang: 'ja',
     label: '日本語',
   },
   
